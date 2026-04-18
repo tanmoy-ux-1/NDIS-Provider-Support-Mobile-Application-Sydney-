@@ -87,7 +87,7 @@ This is the backend server where business logic is processed. It manages authent
 
 This layer stores system data in PostgreSQL and manages any files or reports through cloud storage. It ensures data persistence, integrity, and retrieval when needed.
 
-### High-Level System Architecture Diagram
+###  System Architecture Diagram
 
 ```mermaid
 flowchart TD
